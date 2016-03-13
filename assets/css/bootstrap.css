@@ -526,7 +526,6 @@ h5,
 h6,
 .h6 {
   font-size: 12px;
-  font-weight: 700;
 }
 
 h1 small,
@@ -1988,7 +1987,6 @@ textarea.input-lg {
 }
 
 .btn {
-  font-family: 'Lato', sans-serif;
   display: inline-block;
   padding: 6px 12px;
   margin-bottom: 0;
