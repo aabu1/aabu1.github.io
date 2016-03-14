@@ -3004,7 +3004,7 @@ select[multiple].input-lg {
 }
 .btn {
   display: inline-block;
-  padding: 6px 12px;
+  padding: 8px 15px;
   margin-bottom: 0;
   font-size: 14px;
   font-weight: normal;
@@ -3061,10 +3061,11 @@ fieldset[disabled] a.btn {
 }
 .btn-default {
   color: #333;
-  background-color: #fff;
+  background-color: #1a1a1a;
   border-color: #ccc;
   font-family: 'Lato', sans-serif;
     font-weight: 300;
+    color: #ccc;
 }
 .btn-default:focus,
 .btn-default.focus {
