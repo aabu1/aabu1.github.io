@@ -120,8 +120,8 @@ a:after {
 
 #headerwrap .logo {
 	text-align: left;
-	margin-left: 20px;
-	margin-top: 15px;
+	margin-left: -40px;
+	margin-top: 0px;
 }
 
 
@@ -390,6 +390,6 @@ a:after {
 	opacity:0;
 	display:none
 
-	
+
 
 
