@@ -3063,6 +3063,8 @@ fieldset[disabled] a.btn {
   color: #333;
   background-color: #fff;
   border-color: #ccc;
+  font-family: 'Lato', sans-serif;
+    font-weight: 300;
 }
 .btn-default:focus,
 .btn-default.focus {
