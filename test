@@ -119,9 +119,26 @@
           </p>
         </div>
       </div>
-      <!-- ========== ISHQRR ========== -->
+      <!-- ========== CAIR BROCHURE ========== -->
       <div class="col-md-4 col-sm-6 portfolio-item">
         <a href="#" class="portfolio-link" data-toggle="modal" data-target="#portfolioModal2">
+        <div class="portfolio-hover">
+          <div class="portfolio-hover-content">
+            <i class="fa fa-plus fa-3x"></i>
+          </div>
+        </div>
+        <img src="assets/img/cairout.png" class="img-responsive img-rounded" alt="">
+        </a>
+        <div class="portfolio-caption">
+          <h3>CAIR Brochure</h3>
+          <p class="text-muted">
+            Graphic Design
+          </p>
+        </div>
+      </div>
+      <!-- ========== ISHQR ========== -->
+      <div class="col-md-4 col-sm-6 portfolio-item">
+        <a href="#" class="portfolio-link" data-toggle="modal" data-target="#portfolioModal3">
         <div class="portfolio-hover">
           <div class="portfolio-hover-content">
             <i class="fa fa-plus fa-3x"></i>
@@ -132,24 +149,7 @@
         <div class="portfolio-caption">
           <h3>Ishqr</h3>
           <p class="text-muted">
-            User testing and Outreach
-          </p>
-        </div>
-      </div>
-      <!-- ========== GRAPHICS ========== -->
-      <div class="col-md-4 col-sm-6 portfolio-item">
-        <a href="#" class="portfolio-link" data-toggle="modal" data-target="#portfolioModal3">
-        <div class="portfolio-hover">
-          <div class="portfolio-hover-content">
-            <i class="fa fa-plus fa-3x"></i>
-          </div>
-        </div>
-        <img src="assets/img/cairout.png" class="img-responsive img-rounded" alt="">
-        </a>
-        <div class="portfolio-caption">
-          <h3>Print</h3>
-          <p class="text-muted">
-            Graphic Design
+            User testing & Outreach
           </p>
         </div>
       </div>
@@ -212,16 +212,13 @@
               </div>
             </div>
           </div>
-          <!-- MODAL 1 -->
-
           <div class="container">
             <div class="row">
               <div class="col-lg-8 col-lg-offset-2">
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
                   <h2 style="text-align:left">EuroFugees</h2>
-                  <h3>&nbsp;</h3>
-                  <h6 style="text-align:left"><b>ABOUT</b></h6>
+                  <h6 style="text-align:left"><b>BRIEF</b></h6>
                   <h4 style="text-align:left">
                   2015 had the world’s worst refugee crisis since WWII. There was a huge influx of refugees into Europe and they will soon be ready to move out of camps into houses. EuroFugees helps connect those refugees in need to local europeans who are looking to rent out or help those refugees and welcome them into their homes. </h4>
                   <h4 style="text-align:left">
@@ -232,11 +229,6 @@
                   <h6 style="text-align:left"><b>NEEDFINDING</b></h6>
                   <h4 style="text-align:left">
                   We interviewed Syrian Refugees in Europe. Many had mentioned the extensive and expensive process to finding housing. With security and cost being a main issue. Refugees would have to pay a trusted middleman to help refugees find housing. These middlemen spoke the native language and made the process smoother, though it was pricey, costing upwards of a month's rent. </h4>
-                  <img src="assets/img/EFMU4.png" class="img-responsive img-rounded" alt="">
-                  <figcaption>
-                  <h4>One of the initial storyboards that came with interviewing refugees.</h4>
-                  </figcaption>
-                  <h3>&nbsp;</h3>
                   <h6 style="text-align:left"><b>PROTOTYPING</b></h6>
                   <h4 style="text-align:left">
                   The main idea was to display important information about each listing on a card with a photo of the property. Important information included rent cost, location, and number of bedrooms/bathrooms. This goal was to only show the relevant and important information to the user first, as users judge quickly based on a few factors. I started with some rough sketches on paper, and then moved on to high fidelity prototypes. </h4>
@@ -244,29 +236,24 @@
                   <figcaption>
                   <h4>Initial property listing paper prototype</h4>
                   </figcaption>
-                  <h3>&nbsp;</h3>
                   <img src="assets/img/EFMU.png" class="img-responsive img-rounded" alt="">
                   <figcaption>
                   <h4>First High Fidelity Prototypes</h4>
                   </figcaption>
-                  <h3>&nbsp;</h3>
                   <h6 style="text-align:left"><b>USER TESTING</b></h6>
                   <h4 style="text-align:left">
-                  Users generally enjoyed using the product, though a main concern with the app was with the initial search experience was too limiting and asked too many questions. The feedback we recieved from users was that they wanted to get a general idea of the housing market first, see what was available, then focus their search on what they specifically wanted from a property through a refine feature. </h4>
-                  <h3>&nbsp;</h3>
+                  Users generally enjoyed using the product, though a main concern with the app was with the initial search experience was too limiting and asked too many questions. The feedback we recieved from users was that they wanted to get a general idea of the housing market first, then focus their search on what they specifically wanted from a property through a refine feature. </h4>
                   <img class="screengif" src="assets/img/screen.gif" class="img-responsive img-rounded" alt="">
-                  <figcaption>
-                  <h4>Refine feature that was added after initial user testing</h4>
-                  </figcaption>
-                  <h3>&nbsp;</h3>
                   <h6 style="text-align:left"><b>PRODUCTION</b></h6>
                   <h4 style="text-align:left">
-                  Below is the final product that was presented to the class. It looks vastly different, as we went through multiple interations and had to design within the scope of the class, which is why the interface looks very different form the initial protoypes. </h4>
-                  <h3>&nbsp;</h3>
-                  <img src="assets/img/EFMU3.png" class="img-responsive img-rounded" alt="">
+                  Below is the final product that was presented to the class. It looks vastly different, as we went through multiple interations and had to design within the scope of the class, as our team had a big time constraint, and a team member had dropped the class, which is why the interface looks very different form the initial protoypes. </h4>
+
+                  <img src="assets/img/EFiPhone.png" class="img-responsive img-rounded" alt="">
                   <figcaption>
-                  <h4>Final product that was presented to the professor, class, and the rest of the teaching staff</h4>
-                  </figcaption>
+                  <h4>Final Product, home screen.</h4>
+
+
+
                   <h3>&nbsp;</h3>
                   <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>CLOSE PROJECT</button>
                 </div>
@@ -275,9 +262,6 @@
           </div>
         </div>
       </div>
-
-
-
       <!-- Portfolio Modal 2 -->
       <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
@@ -293,33 +277,46 @@
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
                   <h2 style="text-align:left">Ishqr</h2>
-                  <h3>&nbsp;</h3>
                   <h6 style="text-align:left"><b>ABOUT</b></h6>
                   <h4 style="text-align:left">
-                  Ishqr is an online dating site and iOS app for millennial Muslims. Working remotely, I conducted usability testing prior to the release of the iOS app. I am currently working on the development of the Ishqr Blog as well. Other notable projects include making the promotional video for the realease of the iOS app. </h4>
+                  Ishqr is an online dating site and iOS app for millennial Muslims. Working remotely, I conducted usability testing prior to the release of the iOS app. I am currently working on the development of the Ishqr Blog as well. Other projects include making the promotional video for the realease of the iOS app. </h4>
                   <h6 style="text-align:left"><b>PROCESS</b></h6>
                   <h4 style="text-align:left">
                   This was my first jab at usability testing and user experience, as I was new to the Ishqr team. There was no clear cut process to testing the app, I simply used the app on a daily basis, made a note of what was "annoying" and relayed that to the development team.
-                  </h4>
+                </h4>
+                <h4 style="text-align:left">
+                  Though I had no formal terms for these things at the time, I was observant of a few key things, which later I learned were part of Nielsen's Heurestics.
+                </h4>
+                <h4 style="text-align:left">
+                  Violation of Expectations
+                </h4>
+                <h4 style="text-align:left">
+                  Show system status, which I had previosly called "I'm lost in the app" 
+                </h4>
+                <h4 style="text-align:left">
+                  Recognition Over Recall, which at the time I called "I don't remember what I did two screens ago"
+                </h4>
+                  <h6 style="text-align:left"><b>NEEDFINDING</b></h6>
                   <h4 style="text-align:left">
-                    Though I had no formal terms for these things at the time, I was observant of a few key things, which later I learned were part of Nielsen's Heurestics.
-                  </h4>
-
-                <ul>
+                  We interviewed Syrian Refugees in Europe. Many had mentioned the extensive and expensive process to finding housing. With security and cost being a main issue. Refugees would have to pay a trusted middleman to help refugees find housing. These middlemen spoke the native language and made the process smoother, though it was pricey, costing upwards of a month's rent. </h4>
+                  <h6 style="text-align:left"><b>PROTOTYPING</b></h6>
                   <h4 style="text-align:left">
-                  <li>Violation of Expectations</li>
-                  <li>Show system status, which I had previosly called "I'm lost in the app" </li>
-                  <li>Recognition Over Recall, which at the time I called "I don't remember what I did two screens ago"</li>
-                  </h4>
-                </ul>
-
-                <h3>&nbsp;</h3>
-                <h6 style="text-align:left"><b>ISHQR IOS APP PROMOTIONAL VIDEO</b></h6>
-
-
-                <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/140332562' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
-                <h3>&nbsp;</h3>
-                  
+                  The main idea was to display important information about each listing on a card with a photo of the property. Important information included rent cost, location, and number of bedrooms/bathrooms. This goal was to only show the relevant and important information to the user first, as users judge quickly based on a few factors. I started with some rough sketches on paper, and then moved on to high fidelity prototypes. </h4>
+                  <img src="assets/img/EFMU2.png" class="img-responsive img-rounded" alt="">
+                  <figcaption>
+                  <h4>Initial property listing paper prototype</h4>
+                  </figcaption>
+                  <img src="assets/img/EFMU.png" class="img-responsive img-rounded" alt="">
+                  <figcaption>
+                  <h4>First High Fidelity Prototypes</h4>
+                  </figcaption>
+                  <h6 style="text-align:left"><b>USER TESTING</b></h6>
+                  <h4 style="text-align:left">
+                  Users generally enjoyed using the product, though a main concern with the app was with the initial search experience was too limiting and asked too many questions. The feedback we recieved from users was that they wanted to get a general idea of the housing market first, then focus their search on what they specifically wanted from a property through a refine feature. </h4>
+                  <img class="screengif" src="assets/img/screen.gif" class="img-responsive img-rounded" alt="">
+                  <h6 style="text-align:left"><b>PRODUCTION</b></h6>
+                  <h4 style="text-align:left">
+                  Below is the final product that was presented to the class. It looks vastly different, as we went through multiple interations and had to design within the scope of the class, which is why the interface looks very different form the initial protoypes. </h4>
                   <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>CLOSE PROJECT</button>
                 </div>
               </div>
@@ -327,8 +324,6 @@
           </div>
         </div>
       </div>
-
-
       <!-- Portfolio Modal 3 -->
       <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
@@ -343,42 +338,39 @@
               <div class="col-lg-8 col-lg-offset-2">
                 <div class="modal-body">
                   <!-- Project Details Go Here -->
-                  <h2 style="text-align:left">Graphic Design</h2>
-                  <h3>&nbsp;</h3>
-                  <h6 style="text-align:left"><b>Civil Rights Brochure</b></h6>
+                  <h2 style="text-align:left">Ishqr</h2>
+                  <h6 style="text-align:left"><b>ABOUT</b></h6>
                   <h4 style="text-align:left">
-                  This is a brochure I worked on during my time at CAIR. This brochure informed Muslim-Americans about their civil rights and what to do when confronted with issues such as racial profiling. It was important that the information was delivered in an easy to read format and also to be aesthetically pleasing as a majority of those read the brochure don't speak English as their first language. This was the largest project of my internship, and had a print run of about 5,000 copies distributed all over Southern California.  </h4>
-                  <img src="assets/img/cairout.png" class="img-responsive img-rounded" alt="">
-                  <figcaption>
-                  <h4>Outside of final print product</h4>
-                  </figcaption>
-                  <h3>&nbsp;</h3>
-                <h6 style="text-align:left"><b>SPACES Branding</b></h6>
+                  Ishqr is an online dating site and iOS app for millennial Muslims. Working remotely, I conducted usability testing prior to the release of the iOS app. I am currently working on the development of the Ishqr Blog as well. Other notable projects include making the promotional video for the realease of the iOS app. </h4>
+                  <h6 style="text-align:left"><b>PROCESS</b></h6>
                   <h4 style="text-align:left">
-                  SPACES is the Student Promoted Access Center for Education and Service at UCSD. The organization wanted help with marketing itself in such a way that was easy yet trendy. I came up with a modified logo for the organization which represented the values of the organization and gave tribute to the city of San Diego. The logo was placed on stickers that were passed out at events and other programs. We also placed the logo on a sweater that given to the staff to promote the organization.
- </h4>
-                <h3>&nbsp;</h3>
-                  <img src="assets/img/sticker.png" class="img-responsive img-rounded" alt="">
-                  <figcaption>
-                  <h4>Modified Logo Design</h4>
-                  </figcaption>
-                  <h3>&nbsp;</h3>
-                  <img src="assets/img/stickeron.jpeg" class="img-responsive img-rounded" alt="">
-                  <figcaption>
-                  <h4>Sticker on one of my containers.</h4>
-                  </figcaption>
+                  This was my first jab at usability testing and user experience, as I was new to the Ishqr team. There was no clear cut process to testing the app, I simply used the app on a daily basis, made a note of what was "annoying" and relayed that to the development team.
+                </h4>
+                <h4 style="text-align:left">
+                  Though I had no formal terms for these things at the time, I was observant of a few key things, which later I learned were part of Nielsen's Heurestics.
+                </h4>
 
-                <h6 style="text-align:left"><b>JIP Week at UCSD</b></h6>
+                <ul>
                   <h4 style="text-align:left">
-                  This was the main flyer to promote JIP Week at UCSD. There was about 3,000 flyers printed to be distributed across the UCSD campus. I strived to make a flyer that was minimal and trendy.</h4>
-                  <h3>&nbsp;</h3>
-                  <img src="assets/img/JIP.png" class="img-responsive img-rounded" alt="">
-                  <figcaption>
-                  <h4>Front of flyer</h4>
-                  </figcaption>
+                  <li>Violation of Expectations</li>
+                  <li>Show system status, which I had previosly called "I'm lost in the app" </li>
+                  <li>Recognition Over Recall, which at the time I called "I don't remember what I did two screens ago"</li>
+                  </h4>
+                </ul>
 
 
                 <h3>&nbsp;</h3>
+
+                <h6 style="text-align:left"><b>ISHQR IOS APP PROMOTIONAL VIDEO</b></h6>
+
+
+                <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+                <div class='embed-container'><iframe src='https://player.vimeo.com/video/140332562' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+
+
+
+                
                   <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>CLOSE PROJECT</button>
                 </div>
               </div>
